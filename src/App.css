@@ -45,7 +45,7 @@ footer {
   list-style-type: square;
 }
 .interst-list > li::marker {
-  color: black;
+  color: #DCDCDC;
 }
 .name {
   color: #DCDCDC;

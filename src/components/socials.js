@@ -1,9 +1,9 @@
 import React from "react";
 import Twitter from "../images/icon-twitter.svg"
 import Github from "../images/github-icon.png"
-import Whatsapp from "../images/whatsapp.png"
+import Whatsapp from "../images/whatsapp-grey.png"
 import Email from "../images/mail.png"
-import LinkedIn from "../images/linkedin.png"
+import LinkedIn from "../images/linkedin-grey.png"
 
 
 
