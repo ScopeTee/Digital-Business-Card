@@ -3,9 +3,9 @@ import './App.css';
 // import Counter from './Counter'
 import Card from './components/card';
 import About from './components/about';
-import Interests from './components/interests';
 import Socials from './components/socials';
 import Footer from './components/footer';
+import Skills from './components/interests';
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
     <div className="App">
        <Card />
        <About />
-       <Interests />
+       <Skills />
        <Socials />
        <Footer />
     </div>
