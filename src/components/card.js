@@ -8,7 +8,7 @@ function Card() {
             <img src={Headshot} className="card-img-top rounded mx-auto d-block img " alt="..." />
             <div className="card-body text-center">
                 <h2 className="card-title head-name">Tayo-Subair Fuad</h2>
-                <p className="card-text">Front-End Developer</p>
+                <p className="card-text">Full Stack Web Developer</p>
                 <div className="py-3">
                     <a href="http://tayo-subair-fuad.netlify.app/">
                         <button type="button" className="btn btn-outline-secondary my-2 mx-3">Portfolio</button>
