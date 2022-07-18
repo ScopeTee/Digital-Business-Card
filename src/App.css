@@ -8,9 +8,9 @@
   }
 } */
 body {
-  /* background-color:  #F5F5F5; */
   background-color: #1A1B21;
-  /* color: rgba(74, 78, 116, 1); */
+  /* color: rgba(74, 78, 116, 1);
+  background-color:  #F5F5F5; */
   color: #DCDCDC;
   font-family: Roboto Mono, monospace;
 }
@@ -53,6 +53,6 @@ footer {
 
 @media (max-width: 480px) { 
   .img {
-    width: 250px;
+    width: 200px;
   }
  }
