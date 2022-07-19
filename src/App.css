@@ -8,8 +8,21 @@
   }
 } */
 body {
-  background-color:  #F5F5F5;
-  color: rgba(74, 78, 116, 1);
+  background-color: #1A1B21;
+  /* color: rgba(74, 78, 116, 1);
+  background-color:  #F5F5F5; */
+  color: #DCDCDC;
+  font-family: Roboto Mono, monospace;
+}
+.head-name {
+  color: #1A1B21;
+  font-weight: 700;
+}
+.head-name + p {
+  color: #1A1B21;
+}
+.sub-head {
+  font-weight: 600;
 }
 .sm-icon {
   width: 30px;
@@ -21,19 +34,25 @@ body {
   list-style-type: none;
 }
 .img {
-  width: fit-content;
+  width: 360px;
   height: 250px;
 }
 footer {
-  background: #D5D4D8;
+  background: #1A1B21;
   border-radius: 0px 0px 10px 10px;
 }
 .interst-list > li {
   list-style-type: square;
 }
 .interst-list > li::marker {
-  color: black;
+  color: #DCDCDC;
 }
 .name {
-  color: black;
+  color: #DCDCDC;
 }
+
+@media (max-width: 480px) { 
+  .img {
+    width: 200px;
+  }
+ }
