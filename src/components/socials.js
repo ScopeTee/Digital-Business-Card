@@ -13,7 +13,7 @@ function Socials () {
         <div className="text-start container px-5">
           <ul className="sm">
             <li> 
-                <a href="https://twitter.com/manlike_fuad/">
+                <a href="https://twitter.com/scopetee_7/">
                 <img src={Twitter} class="sm-icon" alt="" />
                 </a>
             </li>
